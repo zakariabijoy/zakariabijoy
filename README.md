@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariabijoy" alt="zakariabijoy" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Microservices**
+- 🌱 I’m currently learning **.NET Microservices and React with ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zakariabijoy/](https://github.com/zakariabijoy/)
 
